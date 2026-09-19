@@ -1,7 +1,6 @@
 # Data Science & Machine Learning Roadmap Planner
 
-A free 24-week, project-based roadmap planner for learning Data Science and Machine Learning.
-
+Free 24-week project based Data Science & Machine Learning roadmap planner.
 This planner is designed to help learners move step by step from programming and statistics foundations to machine learning, practical projects, and a final capstone.
 
 ## What's Inside?
